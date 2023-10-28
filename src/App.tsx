@@ -62,6 +62,7 @@ function App() {
         <Stack minW="400px" marginTop="2rem" p="2rem" h="fit-content" gap={8}>
           <Heading fontSize="5xl" textAlign="center">
             Todo App
+            add your activities
           </Heading>
           <Flex gap={3}>
             <Input
